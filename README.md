@@ -1,3 +1,3 @@
 Hoja-Trabajo1
 
-Agragando datos al readme
+Modificando datos de lanzamiento
